@@ -1,5 +1,5 @@
 # Telecom_customer_Churn
-  1. To find important features to predict telecom customer will churn or not.
+  1. To find important features to predict telecom customer will churn or not
   3. Loading the dataset and performing data preprocessing.
   5. Comparing One-hot Encoding and Label Encoding for the data set.
   6. Performing Data Transformation (MinMaxScaler). 
